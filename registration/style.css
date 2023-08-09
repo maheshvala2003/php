@@ -1,0 +1,12 @@
+table{
+    text-align: left;
+}
+
+th{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
